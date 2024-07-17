@@ -11,3 +11,9 @@
 .third {
     font-size: 24px;
 }
+
+#another {
+    background-color: rgba(0, 255, 0, 0.4);
+    font-size: 24px;
+    font-weight: 700;
+}
