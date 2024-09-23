@@ -53,3 +53,22 @@ html {
   grid-template-rows: repeat(8, 85px);
 }
 
+.header {
+  grid-column: 1 / span 8;
+}
+
+.sidebar {
+
+}
+
+.nav {
+
+}
+
+.article {
+
+}
+
+.footer {
+
+}
