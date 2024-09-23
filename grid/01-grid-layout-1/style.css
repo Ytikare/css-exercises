@@ -67,7 +67,7 @@ html {
 }
 
 .article {
-
+  grid-area: 3 / 2 / 9 / 9;
 }
 
 .footer {
