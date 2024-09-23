@@ -46,3 +46,10 @@ html {
   color: white;
   text-align: left;
 }
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(8, 230px);
+  grid-template-rows: repeat(8, 85px);
+}
+
