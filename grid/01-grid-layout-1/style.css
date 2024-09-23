@@ -63,7 +63,7 @@ html {
 }
 
 .nav {
-
+  grid-column: 2/ 9;
 }
 
 .article {
