@@ -49,8 +49,9 @@ html {
 
 .container {
   display: grid;
-  grid-template-columns: repeat(8, 230px);
+  grid-template-columns: repeat(8, 220px);
   grid-template-rows: repeat(8, 85px);
+  gap: 10px 10px;
 }
 
 .header {
@@ -67,7 +68,7 @@ html {
 }
 
 .article {
-  grid-area: 3 / 2 / 9 / 9;
+  grid-area: 3 / 2 / 8 / 9;
 }
 
 .footer {
