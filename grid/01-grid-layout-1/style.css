@@ -70,5 +70,6 @@ html {
 }
 
 .footer {
-
+  grid-column: 1 / span 8;
+  grid-row: 8 / 9;
 }
